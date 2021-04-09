@@ -1,0 +1,45 @@
+p{
+    text-align: justify;
+}
+.about-us{
+    position: relative;
+    height: 450px;
+    background-color: white;
+    margin: 10px;
+}
+.about-head{
+    text-align: center;
+}
+#image-chef{
+    position: absolute;
+    width: 400px;
+    height: 320px;
+    margin-left: 10px;
+}
+#image-customer{
+    position: absolute;
+    width: 260px;
+    left: 225px;
+    top: 40px;
+    height: 260px;
+    border-radius: 3px;
+    border: solid 1px white;
+}
+#about-content{
+    position: absolute;
+    height: 320px;
+    left: 48%;
+    margin: 0 10px;
+    width: 45%;
+    padding: 10px;
+}
+#about-content p{
+    font-family: monospace;
+    font-size: 1.14rem;
+    font-style: oblique;
+}
+#about-heading{
+    text-align: center;
+    margin-top: 0px;
+    color: #ed6d58;
+}

@@ -1,0 +1,14 @@
+#home-container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    color: #ed6d58;
+    font-size: 1.6rem;
+    left: 50%;
+    transform: translate(-50%, -60%);
+  }

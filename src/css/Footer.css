@@ -1,0 +1,21 @@
+.footer{
+    height: 200px;
+    background-color: #191a19;
+    display: flex;
+}
+.footer-div{
+    width: 24%;
+    margin:10px;
+}
+.footer-div ul{
+    list-style: none;
+    color:whitesmoke;
+    line-height: 1.5;
+}
+.footer-bottom{
+    padding: 0px 100px 10px 100px;
+    background-color: #191a19;
+    color: whitesmoke;
+    font-weight: 100;
+    font-style: oblique;
+}
